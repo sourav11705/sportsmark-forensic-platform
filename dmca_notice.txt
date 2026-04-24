@@ -1,0 +1,98 @@
+================================================================================
+           DMCA TAKEDOWN NOTICE — Pursuant to 17 U.S.C. § 512
+================================================================================
+
+Date:         April 23, 2026 at 12:18 UTC
+Detection ID: 101a38cd-a1d6-4e1f-ba42-458739250a01
+Session ID:   D594ACB8FD8B4228
+
+────────────────────────────────────────────────────────────────────────────────
+SECTION 1 — IDENTIFICATION OF COPYRIGHTED WORK
+────────────────────────────────────────────────────────────────────────────────
+
+Title of Copyrighted Work : SportsMark Demo Match Highlights
+Asset Identifier           : 536FF770C000
+Copyright Holder           : SportsMark Media Rights Ltd.
+
+The above-identified work is an original audiovisual work owned exclusively by
+SportsMark Media Rights Ltd.. All rights are reserved under applicable copyright law.
+
+────────────────────────────────────────────────────────────────────────────────
+SECTION 2 — INFRINGING MATERIAL
+────────────────────────────────────────────────────────────────────────────────
+
+Infringing URL    : https://t.me/piracy_channel/leaked_match_highlights.mp4
+Platform          : SonyLiv
+Date Detected     : 2026-04-23T12:18:29.207376+00:00
+
+The infringing content was identified through automated forensic analysis as an
+unauthorized reproduction of the copyrighted work identified above.
+
+────────────────────────────────────────────────────────────────────────────────
+SECTION 3 — FORENSIC EVIDENCE
+────────────────────────────────────────────────────────────────────────────────
+
+Watermark Session ID   : D594ACB8FD8B4228
+Distributed To         : User "user_leaker" via platform "SonyLiv"
+Distribution Timestamp : 2026-04-23T12:18:13.682066+00:00
+
+Content Fingerprint Match
+  Similarity Score   : 97.5%
+  Matched Frames     : 20
+  Forensic Verdict   : EXACT DUPLICATE — identical or near-identical copy
+
+This notice is supported by cryptographic digital watermark evidence embedded
+invisibly into the video using blind DCT steganography. The watermark uniquely
+identifies the distribution session and end-user to whom the content was
+licensed. The perceptual fingerprint comparison further confirms the infringing
+content is derived from the original copyrighted work.
+
+────────────────────────────────────────────────────────────────────────────────
+SECTION 4 — STATEMENT OF AUTHORITY
+────────────────────────────────────────────────────────────────────────────────
+
+I, A. Antigravity, Chief Legal Officer, on behalf of SportsMark Media Rights Ltd., have a good-faith belief that the
+use of the material described above is not authorized by the copyright owner,
+its agent, or the law.
+
+I declare under penalty of perjury that the information in this notification is
+accurate and that I am authorized to act on behalf of the copyright owner.
+
+────────────────────────────────────────────────────────────────────────────────
+SECTION 5 — REQUESTED ACTION
+────────────────────────────────────────────────────────────────────────────────
+
+We respectfully request that you immediately:
+
+  1. Remove or disable access to the infringing material at the URL identified
+     above.
+  2. Prevent re-upload of the same or substantially similar content.
+  3. Provide the identity information of the account holder responsible for the
+     upload to assist in further legal proceedings if necessary.
+  4. Confirm removal via email to legal@sportsmark.io within 24 hours.
+
+Failure to comply may result in further legal action, including but not limited
+to injunctive relief and claims for statutory damages under 17 U.S.C. § 504.
+
+────────────────────────────────────────────────────────────────────────────────
+SECTION 6 — CONTACT INFORMATION
+────────────────────────────────────────────────────────────────────────────────
+
+Copyright Holder : SportsMark Media Rights Ltd.
+Contact Email    : legal@sportsmark.io
+Address          : 12 Broadcast House, Mumbai 400001, India
+
+────────────────────────────────────────────────────────────────────────────────
+DECLARATION
+────────────────────────────────────────────────────────────────────────────────
+
+Signed electronically:
+
+A. Antigravity, Chief Legal Officer
+Authorized Representative, SportsMark Media Rights Ltd.
+Date: April 23, 2026 at 12:18 UTC
+
+================================================================================
+This notice is generated automatically by the SportsMark Forensic Watermarking
+System. Forensic evidence is retained and available for legal proceedings.
+================================================================================

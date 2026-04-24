@@ -1,0 +1,13 @@
+Total frames: 395
+Frame 0: '=Q�w\x00p\x11�9o�1��P�\x11�\x15�'
+Frame 1: '���ށ�;��\\;�$��\x17�q_�'
+Frame 2: '�\x17@�-�6����,=�W�R��'
+Frame 3: '���\x1e���>��]�!�}��v��'
+Frame 4: '���\x1e��|͉\x0c�(\U000c1cd6��<'
+Frame 5: '�Ʌ^(��h�\x19\x0c� �E��\x1bP\x04'
+Frame 6: '���� ��w�0\x0e�"����\x1fyT'
+Frame 7: '����0��W�0\x0e�"�����yV'
+Frame 8: '�ϱ݀��u�^\x0f�0��\x0b\x1c\x1e^�'
+Frame 9: '�Ϗ߲ޮ���\x1e�v�- �\x1aH^'
+Frame 10: '����������_�2u�a�8\t�'
+Frame 11: '����\'~�ӿ�\n�u%�"\x17��\\'

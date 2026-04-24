@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.env
+registry/*.json
+registry/*.mp4
+registry/*.png
+build/
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+*.temp
+*.tmp
+tmp/
+.tempmediaStorage/
