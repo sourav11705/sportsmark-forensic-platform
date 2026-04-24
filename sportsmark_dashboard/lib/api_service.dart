@@ -3,7 +3,7 @@ import 'package:http/http.dart' as http;
 import 'package:http_parser/http_parser.dart';
 
 class ApiService {
-  static const String baseUrl = 'http://localhost:8000';
+  static const String baseUrl = 'https://sportsmark-forensic-platform-532060048822.europe-west2.run.app';
 
   Future<Map<String, dynamic>> uploadAsset(String title, List<int> fileBytes, String filename) async {
     var uri = Uri.parse('$baseUrl/assets/register');

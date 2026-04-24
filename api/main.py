@@ -20,7 +20,9 @@ app = FastAPI(
 # Enable CORS for React frontend development
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=[
+        "https://sportsmark.web.app",
+        "*"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
